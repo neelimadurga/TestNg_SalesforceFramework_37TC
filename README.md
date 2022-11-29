@@ -1,2 +1,0 @@
-# TestNg_SalesforceFramework_37TC
-This is framework for TestNg_SalesforceFramework_37TC by Neelima
